@@ -7,7 +7,7 @@ MATLABライブスクリプトを用いているので，開くときはご注�
 ### OFDM/QPSK変復調システム（Communication Toolbox利用）
 * ofdm_qpsk_system.mlx
 * 0付近サブキャリア除去の一方法を実装
-* パイロットキャリアの挿入方法については言及していない
+* パイロットキャリアは入れていない
 ### DS-SS/BPSK変復調システム（Communication Toolbox利用）
 * dsss_bpsk_system.mlx
 * 教科書通りの直接拡散/逆拡散を実装
